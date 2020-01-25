@@ -1,0 +1,5 @@
+Find numbers with Even number of digits in a given array.
+
+Input : nums = [12,345,2,6,7896]
+
+Output: 2
